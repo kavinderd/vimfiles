@@ -1,0 +1,30 @@
+[submodule "bundle/vim-gotham"]
+	path = bundle/vim-gotham
+	url = git@github.com:whatyouhide/vim-gotham.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
+	url = git@github.com:vimwiki/vimwiki.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git@github.com:wincent/command-t.git
+[submodule "bundle/vim-latex"]
+	path = bundle/vim-latex
+	url = git@github.com:vim-latex/vim-latex.git
+[submodule "bundle/dracula-theme"]
+	path = bundle/dracula-theme
+	url = git@github.com:dracula/vim.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "bundle/calendar-vim"]
+	path = bundle/calendar-vim
+	url = git://github.com/mattn/calendar-vim
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = git://github.com/tpope/vim-commentary.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
